@@ -5,7 +5,7 @@
 This repo contains the Jupyter Notebook for my PyLadies lightning talk.  
 It uses the [TidyTuesday dataset](https://github.com/rfordatascience/tidytuesday) for crane observations at Lake Hornborgasjön.
 
-📓 [View the notebook](pyladies_crane_demo.ipynb)
+📓 [View the notebook](PyLadies_PydyTuesday.ipynb)
 
 ![Crane plot per year](jen_crane_plot_per_yr.png)
 
