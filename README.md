@@ -13,3 +13,4 @@ It uses the [TidyTuesday dataset](https://github.com/rfordatascience/tidytuesday
 2. Install dependencies:  
    ```bash
    pip install pandas matplotlib scikit-learn
+3. Open the notebook in Jupyter or VS Code and run cells
